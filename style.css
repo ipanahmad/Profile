@@ -1,0 +1,41 @@
+.jumbotron {
+    padding-top: 2rem;
+    background-color: #E5DCC3;
+}
+
+.jumbotron img {
+    width: 250px;
+}
+
+.about {
+    background-color: #C7BEA2;
+}
+
+.colom2 {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.project {
+    background-color: #E5DCC3;
+}
+
+.coding,
+.leader,
+.disiplin,
+.text-column {
+    background-color: #E5DCC3;
+}
+
+.contact {
+    height: 500px;
+    background-color: #C7BEA2;
+}
+
+a {
+    font-style: none;
+}
+
+footer p {
+    text-align: center;
+}
